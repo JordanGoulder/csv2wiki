@@ -188,6 +188,8 @@ int main(int argc, char* argv)
    }
 
    table_end();
+
+   return (0);
 }
 
 static void table_begin(void)
