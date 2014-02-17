@@ -6,3 +6,6 @@ the output is written to stdout.
 
 Usage:
         csv2wiki < input.csv > output.wiki
+
+
+**NOTE:** '<' and '>' are redirection operators.
